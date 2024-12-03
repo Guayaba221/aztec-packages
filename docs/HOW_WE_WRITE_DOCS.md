@@ -40,7 +40,7 @@ These are docs that developers can consult to know exact and succinct informatio
 
 * Concise and informative - for example, rather than repeating information, write "to learn more, read ..."
 * Friendly and empathetic - for example, "you do not have to worry about this yet" 
-* Simple and jardon-avoidant when possible 
+* Simple and jargon-avoidant when possible 
 * Short sentences
 * Unopinionated language - we know things are exciting sometimes, but try not to tell the developer what they should be excited about
 
